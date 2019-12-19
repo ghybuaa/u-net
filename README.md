@@ -3,8 +3,8 @@
 
 --project
   	
-main.py
-  	 --data
+       main.py
+  	        --data
    		    
-          --train
-   		    --val
+             --train
+   		       --val
