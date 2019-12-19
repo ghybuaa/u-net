@@ -2,7 +2,9 @@
 
 
 --project
-  	main.py
+  	
+main.py
   	 --data
-   		--train
-   		--val
+   		    
+          --train
+   		    --val
